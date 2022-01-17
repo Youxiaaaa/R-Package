@@ -1,0 +1,10 @@
+Package: wxTOPSIS
+Type: Package
+Title: TOPSIS-based emergency plan optimization
+Version: 0.1
+Author: Xia Wang
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Get the order of the plans and you can choose the best
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
